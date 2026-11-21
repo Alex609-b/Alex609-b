@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Alex.
+
+
+## Mathematics | Computer Science | AI & Scientific Computing
 
 <!--
 **Alex609-b/Alex609-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
