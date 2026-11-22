@@ -3,6 +3,9 @@
 
 ## Mathematics | Computer Science | AI & Scientific Computing
 
+I'm interested in the intersection of mathematics, computer science, artificial intelligence, and scientific computing.
+I enjoy learning by building projects, solving problems, exploring algorithms, and contributions to open-source software.
+
 <!--
 **Alex609-b/Alex609-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
